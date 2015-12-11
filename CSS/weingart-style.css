@@ -132,6 +132,9 @@ color: aliceblue;
 text-align: center;
 }
 
+h5
+{
+text-align: center;}
 p
 {
     font-family: sans-serif;
