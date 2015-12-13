@@ -29,7 +29,10 @@ header{
 article{
     padding-left: 1.5em;
     padding-right: 1.5em;
-	margin:8em;
+	margin-left:8em;
+    margin-right: 8em;
+    margin-top: 2em;
+    margin-bottom: 2em;
     background:#787878;
 	
 }
