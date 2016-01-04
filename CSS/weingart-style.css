@@ -222,9 +222,9 @@ border-bottom: none;}
 
 /*-----------------video----------------*/
 .video{
-margin-left: 16em;
 border: dotted;
-border-color: white;}
+border-color: white;
+}
 /*-------------references---------*/
 /*#refer
 {
@@ -244,8 +244,8 @@ line-height: .7em;
 font-size:.6em;}
 
 .references p {
-font-size: .6em;
+font-size: .9em;
 margin: -1em;
 text-align: center;
-padding: 3em;
+padding: 1em;
 }
