@@ -67,9 +67,10 @@ color:#ffffff;
 font-size: 2em;
 }
 
-.title {
+.title1 {
 text-align: center;
-padding-bottom: 2em;}
+padding: 2em;}
+
 
 blockquote{
 border-top: dotted;
@@ -189,24 +190,30 @@ p
 
 /*-----------------images-----------*/
 .image1{
-margin-left: 7em;}
+padding: 2em;
+}
 .image2{
-    margin-left: 9em;
+    padding: 2em;
+    /*margin-left: 9em;*/
 }
 .image3{
-margin-top: 2em;
-margin-left: 7em;}
+    padding: 2em;
+}
+
 .image4{
-    margin-top: 2em;
-    margin-left: 9em;
+    padding: 2em;
+   /* margin-top: 2em;
+    margin-left: 9em;*/
 }
 .image5{
-margin-top: 2em;
-margin-left: 7em;
+    padding: 2em;
+/*margin-top: 2em;
+margin-left: 7em;*/
 }
 .image6{
-margin-top: 2em;
-    margin-left: 9em;}
+    padding: 2em;
+/*margin-top: 2em;
+    margin-left: 9em;}*/
 /*--------------anchor---------*/
 .anchor
 {font-size: 3em;
