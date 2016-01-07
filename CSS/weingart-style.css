@@ -67,9 +67,10 @@ color:#ffffff;
 font-size: 2em;
 }
 
-.title1 {
+.title {
 text-align: center;
-padding-bottom: 2em;}
+padding-bottom: 2em;
+margin-top: 3em;}
 
 blockquote{
 border-top: dotted;
@@ -159,7 +160,7 @@ p
   position: relative;
   list-style: none;
   overflow: hidden;
-  width: 50%;
+  width: 100%;
   padding: 0;
   margin: 0;
   }
@@ -168,7 +169,7 @@ p
   -webkit-backface-visibility: hidden;
   position: absolute;
   display: none;
-  width: 50%;
+  width: 100%;
   left: 0;
   top: 0;
   }
@@ -183,7 +184,7 @@ p
   display: block;
   height: auto;
   float: left;
-  width: 50%;
+  width: 100%;
   border: 0;
   }
 
